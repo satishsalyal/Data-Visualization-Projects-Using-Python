@@ -4,7 +4,7 @@ Data visualization is an essential skill in data science. Here is a list of **be
 
 ---
 
-## 🔖 **1. COVID-19 Data Analysis**
+## 🔖 **1. [COVID-19 Data Analysis](https://github.com/satishsalyal/Data-Visualization-Projects-Using-Python/blob/main/COVID19_Data_Analysis.ipynb)**
 **Dataset:** [Johns Hopkins COVID-19 Data](https://github.com/CSSEGISandData/COVID-19)
 
 ### **Visualizations:**
