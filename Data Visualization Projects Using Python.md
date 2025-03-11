@@ -124,8 +124,4 @@ Data visualization is an essential skill in data science. Here is a list of **be
 
 ---
 
-## 🛠 **Bonus Challenge: Interactive Dashboard!**
-Once comfortable, try using **Plotly & Dash** to make interactive **data dashboards** for these projects! 🚀  
-
-Would you like **dataset links** or **sample code** for any of these? 😊
 
